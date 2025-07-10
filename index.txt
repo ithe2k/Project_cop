@@ -1,1 +1,7 @@
-doc inicial para probar
+header
+
+
+body
+
+
+footer
