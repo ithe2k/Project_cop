@@ -3,6 +3,8 @@ WWW.LAWEB.COM
 
 body
 Esta es una web conceptual
+intentamos romper con todo
+socialmente desenfadada
 
 footer
 ithe2k 2025
